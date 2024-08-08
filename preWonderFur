@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WonderFur - Genuine Sheepskin Rugs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8f0; /* Light green background */
+            color: #333;
+        }
+        .header {
+            background-color: #4caf50; /* Green header */
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 2rem;
+        }
+        .product-info {
+            background-color: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-top: 2rem;
+        }
+        .call-to-action {
+            text-align: center;
+            margin-top: 2rem;
+        }
+        .call-to-action a {
+            display: inline-block;
+            background-color: #4caf50; /* Green button */
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .call-to-action a:hover {
+            background-color: #45a049; /* Darker green on hover */
+        }
+        .footer {
+            background-color: #4caf50; /* Green footer */
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Welcome to WonderFur</h1>
+        <p>Your Source for Genuine Sheepskin Rugs</p>
+    </div>
+
+    <div class="container">
+        <div class="product-info">
+            <h2>Discover Luxurious Comfort with WonderFur</h2>
+            <p>Transform your living space with our exquisite genuine sheepskin rugs, meticulously sourced from Australia and New Zealand.</p>
+            
+            <h3>Why Choose WonderFur?</h3>
+            <ul>
+                <li><strong>Authenticity:</strong> Directly sourced from the finest sheepskin in Australia and New Zealand.</li>
+                <li><strong>Eco-Friendly:</strong> We prioritize sustainable practices in every step of our production.</li>
+                <li><strong>Luxurious Comfort:</strong> Experience unparalleled softness and warmth for your home.</li>
+                <li><strong>Quality Craftsmanship:</strong> Each rug is crafted with care to enhance your living environment.</li>
+            </ul>
+
+            <div class="call-to-action">
+                <a href="#contact">Contact Us Today</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 WonderFur. All rights reserved.</p>
+    </div>
+
+</body>
+</html>
